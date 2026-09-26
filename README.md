@@ -1,4 +1,4 @@
-# Retail-Sales-Forecasting
+# Time-Series-Sales-Forecast
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange)
