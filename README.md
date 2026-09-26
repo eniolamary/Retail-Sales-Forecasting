@@ -175,7 +175,7 @@ The dashboard allows users to interact with the weekly forecast and examine the 
 
 ### Dashboard Preview
 
-![Retail Sales Forecast Dashboard](images/BI_Dashboard.png)
+![Retail Sales Forecast Dashboard](images/BI_Dashboard.PNG)
 
 ---
 
